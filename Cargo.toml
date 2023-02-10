@@ -1,0 +1,19 @@
+[package]
+name = "pielectricseagles-usb-update"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+hex = "0.4.3"
+libusb1-sys =  { version = "0.6.4", features = ["vendored"] }
+rusb =  { version = "0.9.1", features = ["vendored"] }
+serde = { version = "1.0.152", features = ["derive"] }
+serde_json = "1.0.93"
+sha256 = "1.0.3"
+sys-mount = "2.0.2"
+toml = "0.7.2"
+zip = "0.6.4"
+sevenz-rust={version="0.2.3", features=["aes256"]}
+sysinfo = "0.27.7"

@@ -1,0 +1,6 @@
+[[trusted_devices]]
+vid = "0781"
+pid = "5567"
+
+[mount_path]
+path = "/run/media/alex/2441-0FDF"
