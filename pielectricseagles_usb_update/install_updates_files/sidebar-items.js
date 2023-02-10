@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["update_files","this function is update files with new files been specified in update.json as input it takes and UpdateList struct. Also second parameter is an path where we expect to had files. also this function checks and validates an check_sums and if they match updaste files. If they not match alarm message appears."]]};

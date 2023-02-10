@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["load_file_str","Loads the contents of a file as a string."]]};

@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["pielectricseagles_usb_update"];

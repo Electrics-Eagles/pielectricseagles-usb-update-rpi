@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["check_task_is_running","this function is check the pielectricseagles processes running and kills all of them. Also prints out of OS where this process had been running."]]};

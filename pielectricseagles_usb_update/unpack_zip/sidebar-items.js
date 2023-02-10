@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["unpack_zip","Unpack the encrypted zip file to a given directory"]]};

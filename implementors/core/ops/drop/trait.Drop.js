@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"pielectricseagles_usb_update":[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.67.0/core/ops/drop/trait.Drop.html\" title=\"trait core::ops::drop::Drop\">Drop</a> for <a class=\"struct\" href=\"pielectricseagles_usb_update/struct.HotPlugHandler.html\" title=\"struct pielectricseagles_usb_update::HotPlugHandler\">HotPlugHandler</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

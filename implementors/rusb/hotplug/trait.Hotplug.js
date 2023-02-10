@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"pielectricseagles_usb_update":[["impl&lt;T:&nbsp;UsbContext&gt; Hotplug&lt;T&gt; for <a class=\"struct\" href=\"pielectricseagles_usb_update/struct.HotPlugHandler.html\" title=\"struct pielectricseagles_usb_update::HotPlugHandler\">HotPlugHandler</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

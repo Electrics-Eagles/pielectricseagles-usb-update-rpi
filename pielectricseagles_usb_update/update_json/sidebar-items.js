@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["parsed_updates","Summary"]],"struct":[["Update","A struct that represents an update."],["UpdateList","A struct that holds an array of `Update` structs."]]};
