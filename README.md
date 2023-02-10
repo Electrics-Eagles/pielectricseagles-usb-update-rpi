@@ -45,4 +45,4 @@ These libraries play important roles in the functioning of the pielectricseagles
 4.do not forget about scripts that runs before and after installation.
 
 # docs
-docs are build and you can access them there:
+docs are build and you can access them there:https://electrics-eagles.github.io/pielectricseagles-usb-update-rpi/pielectricseagles_usb_update/index.html
