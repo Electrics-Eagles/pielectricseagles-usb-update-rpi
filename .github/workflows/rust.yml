@@ -1,0 +1,31 @@
+on:  
+  push:
+
+
+name: ARM build
+
+jobs:
+  linux_arm7:
+    name: Linux ARM
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions-rs/toolchain@v1
+        with:
+          toolchain: stable
+          target: arm-unknown-linux-musleabi
+          override: true
+      - uses: actions-rs/cargo@v1 
+        with:
+          use-cross: true
+          command: build
+          args: --target arm-unknown-linux-musleabi --release
+      - uses: actions/upload-artifact@v2
+        with:
+            name: drone binary
+            path: ./target/arm-unknown-linux-musleabi/release/pielectricseagles
+            
+
+              
+              
+  
